@@ -15,17 +15,20 @@ I'm a Mechanical Engineering student at IIT Bombay with a passion for Data Scien
 
 <details>
 <summary><b>Predicting Combustion Instability</b> | Applied DS and ML Course Project</summary>
-- Developed a Bayesian Neural Network Ensemble using TensorFlow and Keras to predict thermoacoustic instabilities with an RMSE score of 0.028.
-- Applied PCA and statistical tests for dimensionality reduction and feature extraction.
-- Accurately predicted Equivalence Ratio, Decay Timescale, and Burner Power with robust uncertainty estimates.
-- [GitHub Repo](https://github.com/Galacterzz/Bayesian-NN-ME228.git)
+- Developed a Bayesian Neural Network Ensemble using TensorFlow and Keras to predict thermoacoustic instabilities with an RMSE score of 0.028.<br>
+- Applied PCA and statistical tests for dimensionality reduction and feature extraction.<br>
+- Accurately predicted Equivalence Ratio, Decay Timescale, and Burner Power with robust uncertainty estimates.<br>
+- <a href="https://github.com/Galacterzz/Bayesian-NN-ME228.git">GitHub Repo</a>
 </details>
 
 <details>
 <summary><b>Facial Recognition using Siamese Neural Network</b> | Learners Space</summary>
-- Explored reinforcement learning concepts like Q-Learning, Deep Q Networks, and CNNs.
-- Implemented algorithms on environments like Frozen Lake and CartPole.
-- [GitHub Repo](https://github.com/Galacterzz/LS-ML-22b2181-2024-/tree/268c0b5723744880390fce60299d161f24b53e34/Week%204)
+- Developed a Face Detection System using a Siamese Neural Network with TensorFlow and OpenCV,
+accurately identifying and verifying my face using UUID-labeled images. <br>
+- Applied Image Preprocessing (grayscale conversion, normalization) and Image Augmentation (rotation,
+flipping, scaling) to enhance model performance and generalization.<br>
+- Achieved successful face detection on test data, demonstrating accurate recognition under varying conditions.<br>
+- <a href="https://github.com/Galacterzz/LS-ML-22b2181-2024-/tree/268c0b5723744880390fce60299d161f24b53e34/Week%204">GitHub Repo</a>
 </details>
 
 ### Achievements
