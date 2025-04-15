@@ -22,7 +22,7 @@ I'm a Mechanical Engineering student at IIT Bombay with a passion for Data Scien
 </details>
 
 <details>
-<summary><b>Retro Reinforcement Learning</b> | Summer of Code</summary>
+<summary><b>Facial Recognition using Siamese Neural Network/b> | Learners Space</summary>
 - Explored reinforcement learning concepts like Q-Learning, Deep Q Networks, and CNNs.
 - Implemented algorithms on environments like Frozen Lake and CartPole.
 - [GitHub Repo](https://github.com/Galacterzz/LS-ML-22b2181-2024-/tree/268c0b5723744880390fce60299d161f24b53e34/Week%204)
