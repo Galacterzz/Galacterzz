@@ -18,14 +18,14 @@ I'm a Mechanical Engineering student at IIT Bombay with a passion for Data Scien
 - Developed a Bayesian Neural Network Ensemble using TensorFlow and Keras to predict thermoacoustic instabilities with an RMSE score of 0.028.
 - Applied PCA and statistical tests for dimensionality reduction and feature extraction.
 - Accurately predicted Equivalence Ratio, Decay Timescale, and Burner Power with robust uncertainty estimates.
-- [GitHub Repo](https://github.com/username/project-name)
+- [GitHub Repo](https://github.com/Galacterzz/Bayesian-NN-ME228.git)
 </details>
 
 <details>
 <summary><b>Retro Reinforcement Learning</b> | Summer of Code</summary>
 - Explored reinforcement learning concepts like Q-Learning, Deep Q Networks, and CNNs.
 - Implemented algorithms on environments like Frozen Lake and CartPole.
-- [GitHub Repo](https://github.com/username/project-name)
+- [GitHub Repo](https://github.com/Galacterzz/LS-ML-22b2181-2024-/tree/268c0b5723744880390fce60299d161f24b53e34/Week%204)
 </details>
 
 ### Achievements
